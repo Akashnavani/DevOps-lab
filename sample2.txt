@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is to New commit
+=======
+This is to Best
+>>>>>>> newBranch
